@@ -1,0 +1,17 @@
+# NAME
+
+node-sqlite-creator - An easy way to create tables in sqlite
+
+Writing hardcoded sql stinks. Let's not do that anymore. Why write in two languages when you can
+stick to one. Let's not complicate things. This library was created to allow you to create tables
+in sqlite using js instead of having to write sql.
+
+# IMPORTANT NOTE
+
+This library is based off of https://github.com/orlandov/node-sqlite
+
+# USAGE
+
+Check out the create_table_test.js to see how things are done. You can output the sql as text or
+run it directly. I will make this actually have examples eventually. For now check out that file.
+
